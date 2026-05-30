@@ -456,10 +456,10 @@ export default function Home() {
 
               <h2 className="text-3xl font-bold">
 
-                Guptha{" "}
+                Jaswanth{" "}
 
                 <span className="text-blue-500">
-                  Reddy
+                  Guptha
                 </span>
 
               </h2>
